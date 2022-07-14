@@ -1,4 +1,4 @@
-img{
+img.normal{
 	width: 30%;
 
 }
@@ -11,3 +11,34 @@ body{
 ·título{
 	width: 50%
 }
+ul.no-bullets{
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+button.redes{
+	border-radius: 10px;
+	border-color: red ;
+	color: Blue ;
+}
+button.pags{
+	border-radius: 50px;
+	border-color: blue;
+	color: black ;
+}
+button.canales{
+	border-radius: 80px;
+	border-color: green;
+	color: purple ;
+}
+
+.lista1{
+	text-align: center;
+}
+
+button.task{
+	border-radius: 100px;
+	border-color: purple;
+	color: red ;
+}
+
